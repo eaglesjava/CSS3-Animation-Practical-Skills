@@ -1,0 +1,23 @@
+
+body{
+	color: #fff;
+	background: #000;
+}
+
+h1{
+	font-size: 14px;
+	font-family: "microsoft yahei";
+	text-align: center;
+}
+
+.change{
+	display: block;
+	widows: 400px;
+	height: 400px;
+	background: url(../img/t0134c65e59012a1257.png) no-repeat center;
+	background-size: cover;
+	border:1em solid rgba(255,255,255,.8);
+	margin:50px auto;
+}
+
+
